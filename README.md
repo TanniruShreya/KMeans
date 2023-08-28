@@ -19,6 +19,15 @@ As a DataScience Engineer predict the futuristic finaical market GDP rate based 
 
 The client wants atleast top 5 clusters[shops]   
 
+# Project Approch:
+
+![image](https://github.com/TanniruShreya/KMeans/assets/132294967/bc938335-61e2-4f0c-ac5b-3842c7f24ba2)
+
+
+# Project Accuracy
+
+![image](https://github.com/TanniruShreya/KMeans/assets/132294967/c0957f30-6c72-43b0-81c9-af7eed7c51f8)
+
 
 # Conclusion:
 
